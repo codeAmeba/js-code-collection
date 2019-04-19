@@ -1,2 +1,2 @@
-# js-code-collection
+# javascript-code-collection
 Personal collection
